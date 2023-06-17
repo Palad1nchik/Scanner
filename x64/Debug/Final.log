@@ -1,0 +1,4 @@
+﻿  Final.c
+C:\Users\ars01\source\repos\Final\Final.c(17,38): warning C4047: функция: "const size_t" отличается по уровням косвенного обращения от "unsigned short [7]"
+C:\Users\ars01\source\repos\Final\Final.c(17,28): warning C4024: swprintf: различные типы для формального и фактического параметров 2
+  Final.vcxproj -> C:\Users\ars01\source\repos\Final\x64\Debug\Final.exe
